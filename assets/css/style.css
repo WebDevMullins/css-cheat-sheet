@@ -1,0 +1,11 @@
+:root {
+	--main-color: lightblue;
+}
+
+body {
+	background: linear-gradient(black, white);
+}
+
+h1 {
+	color: var(--main-color);
+}
